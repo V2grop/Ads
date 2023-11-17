@@ -5,7 +5,7 @@
 ساختار جیسون ما به این صورت هست:
 ```json
 {
-  "status": bool,
+  "status": false,
   "text": "TEXT",
   "url": "https://LINK"
 }
