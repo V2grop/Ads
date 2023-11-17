@@ -7,7 +7,8 @@
 {
   "status": false,
   "text": "TEXT",
-  "url": "https://LINK"
+  "url": "https://LINK",
+  "showDefault": true
 }
 ```
 چیز هایی که ویرایش میشن.
@@ -16,3 +17,4 @@
 | status 	| true/false 	| اگر کلید را فالس کنید تبلیغات غیرفعال میشود          	|
 | text   	| string     	| متن اینجا قرار میگیره بهتره طولانی نباشه             	|
 | url    	| string     	| اینجا باید لینک صفحه بازشو نوشته بشه همراه با پروتکل 	|
+| showDefault 	| true/false 	| اگر کلید را فالس کنید ویوی پیشفرض غیرفعال میشود          	|
