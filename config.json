@@ -1,5 +1,5 @@
 {
-  "status": true,
+  "status": false,
   "text": "این بخش برای نمایش تبلیغات از سمت سرور است و فعلا این متن که نوشته شده برای تست عملکرد صحیح برنامه است",
   "url": "https://github.com/V2grop",
   "showDefault": false
